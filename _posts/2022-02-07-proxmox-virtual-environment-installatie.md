@@ -7,12 +7,12 @@ tags: [proxmox, installatie]     # TAG names should always be lowercase
 
 Proxmox Virtual Environment (Proxmox VE) biedt een complete open-source oplossing voor ondernemingsvirtualisatie. Hieronder vind je een stapsgewijze gids voor het installeren en instellen van Proxmox VE op een pc of server, samen met enkele aanbevelingen en pre-requisieten.
 
-## Pre-requisites:
+### Pre-requisites:
 
 - Een pc of server die voldoet aan de standaard aanbevolen hardwarevereisten.
 - Een USB-stick van 16GB voor het opstarten van het installatieproces.
 
-### Voorbereidingen:
+## Voorbereidingen:
 
 1. Download de Proxmox VE Installer van de officiële website (proxmox.com).
 2. Gebruik Rufus (voor Windows) of Etcher (voor Macs) om de opstartbare USB-drive te maken met de Proxmox VE Installer.
