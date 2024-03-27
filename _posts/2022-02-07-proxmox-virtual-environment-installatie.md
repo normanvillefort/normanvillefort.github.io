@@ -1,11 +1,9 @@
 ---
 title: Proxmox Virtual Environment &#58 Installatie
-date: 2024-02-07 14:33:56 -300
+date: 2022-02-07 14:33:56 -300
 categories: [Virtualisatie, Server]
 tags: [proxmox, installatie]     # TAG names should always be lowercase
 ---
-
-# Proxmox Virtual Environment: Installatie
 
 Proxmox Virtual Environment (Proxmox VE) biedt een complete open-source oplossing voor ondernemingsvirtualisatie. Hieronder vind je een stapsgewijze gids voor het installeren en instellen van Proxmox VE op een pc of server, samen met enkele aanbevelingen en pre-requisieten.
 
