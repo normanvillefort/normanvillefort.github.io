@@ -5,6 +5,8 @@ categories: [Virtualisatie, Server]
 tags: [proxmox, installatie]     # TAG names should always be lowercase
 ---
 
+# Aan de slag
+
 Proxmox Virtual Environment (Proxmox VE) biedt een complete open-source oplossing voor ondernemingsvirtualisatie. Hieronder vind je een stapsgewijze gids voor het installeren en instellen van Proxmox VE op een pc of server, samen met enkele aanbevelingen en pre-requisieten.
 
 ### Pre-requisites:
@@ -36,4 +38,4 @@ Proxmox Virtual Environment (Proxmox VE) biedt een complete open-source oplossin
 Dit opent de Proxmox VE webinterface, waar je verder kunt gaan met het configureren en beheren van je virtuele omgeving.
 
 
-*Disclaimer: Zorg ervoor dat je de officiële documentatie van Proxmox VE raadpleegt voor eventuele updates.*
+**Tip:** *Zorg ervoor dat je de officiële documentatie van Proxmox VE raadpleegt voor eventuele updates.*
