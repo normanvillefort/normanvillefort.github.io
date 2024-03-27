@@ -38,4 +38,6 @@ Proxmox Virtual Environment (Proxmox VE) biedt een complete open-source oplossin
 Dit opent de Proxmox VE webinterface, waar je verder kunt gaan met het configureren en beheren van je virtuele omgeving.
 
 
-**Tip:** *Zorg ervoor dat je de officiële documentatie van Proxmox VE raadpleegt voor eventuele updates.*
+!!! note "Notitie"
+    
+    *Zorg ervoor dat je de officiële documentatie van Proxmox VE raadpleegt voor eventuele updates.*
