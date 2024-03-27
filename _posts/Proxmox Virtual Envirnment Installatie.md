@@ -1,6 +1,6 @@
 ---
-title: Proxmox Virtual Environment Installatie
-date: 2022-09-07 14:33:56 -0300
+title: Proxmox Virtual Environment &#58 Installatie
+date: 2022-09-07 14:33:56 -300
 categories: [Virtualisatie, Server]
 tags: [proxmox, installatie]     # TAG names should always be lowercase
 ---
