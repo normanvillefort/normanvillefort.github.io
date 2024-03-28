@@ -40,7 +40,7 @@ Dat is een beetje over mij. Ik hoop dat het inspirerend is voor anderen!
 ## Werkervaring
 - **2003 - 2005**: Mambo grill (Cirkelgroup of Companies) - Functie: Waiter (Gepromoveerd naar Frontfloor manager) - Horeca
 - **2005 - 2010**: Cafe d'Optimist - Functie: Waiter/ Bartender (Gepromoveerd naar Restaurant manager) - Horeca
-- **2010 - 2012**: Boxel garden - Functie: Bedrijfseigenaar - Agrarisch
+- **2010 - heden**: Boxel garden - Functie: Bedrijfseigenaar - Agrarisch
 - **2012 - 2013**: Professional Touch - Functie: Research Executive voor een landelijk PADF project over de jeugd van Suriname
 - **2014 - 2020**: N-Remote - Functie: Sales en Marketing coordinator (Gepromoveerd naar Senior Dispatcher en Senior Servicedesk Technician) - Informatie en Technologie
 - **2020 - heden**: OMADUDU N.V. - Functie: Bedrijfseigenaar - Informatie en Technologie
