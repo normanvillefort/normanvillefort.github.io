@@ -9,14 +9,14 @@ tags: [proxmox, installatie]     # TAG names should always be lowercase
 
 Proxmox Virtual Environment (Proxmox VE) biedt een complete open-source oplossing voor ondernemingsvirtualisatie. Hieronder vind je een stapsgewijze gids voor het installeren en instellen van Proxmox VE op een pc of server, samen met enkele aanbevelingen en pre-requisieten.
 
-### Pre-requisites:
+### Benodigheden:
 
 - Een pc of server die voldoet aan de standaard aanbevolen hardwarevereisten.
-- Een USB-stick van 16GB voor het opstarten van het installatieproces.
+- Een USB-stick van 8GB of groter voor het opstarten van het installatieproces.
 
 ## Voorbereidingen:
 
-1. Download de Proxmox VE Installer van de officiële website (proxmox.com).
+1. Download de Proxmox VE Installer van de officiële website [van Proxmox](https://proxmox.com/en/downloads).
 2. Gebruik Rufus (voor Windows) of Etcher (voor Macs) om de opstartbare USB-drive te maken met de Proxmox VE Installer.
 
 ## Installatie:
@@ -27,7 +27,13 @@ Proxmox Virtual Environment (Proxmox VE) biedt een complete open-source oplossin
 4. Selecteer de harde schijf waarop je Proxmox wilt installeren.
 5. Selecteer je land, tijdzone en toetsenbordindeling.
 6. Stel het root wachtwoord en het e-mailadres in.
-7. Configureer het netwerk voor het beheer: selecteer de management interface, hostname (FQDN), IP-adres, netmask, gateway en DNS-server.
+7. Configureer het netwerk voor het beheer: 
+    * selecteer het netwerk management interface, 
+    * voer in de hostname (FQDN), 
+    * het gewenste IP-adres, 
+    * het gewenste netmask, 
+    * de gateway en 
+    * de DNS-server.
 8. Wacht tot de installatie is voltooid en je het bericht "Installatie succesvol" ziet.
 
 ## Volgende stappen:
@@ -37,5 +43,5 @@ Proxmox Virtual Environment (Proxmox VE) biedt een complete open-source oplossin
 
 Dit opent de Proxmox VE webinterface, waar je verder kunt gaan met het configureren en beheren van je virtuele omgeving.
 
-> Zorg ervoor dat je de officiële documentatie van Proxmox VE raadpleegt voor eventuele updates.
+> Zorg ervoor dat je [de officiële documentatie](https://pve.proxmox.com/pve-docs/chapter-sysadmin.html) van Proxmox VE raadpleegt voor eventuele updates.
 {: .prompt-tip }
