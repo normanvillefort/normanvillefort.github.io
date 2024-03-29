@@ -3,6 +3,8 @@ title: Proxmox Virtual Environment &#58 Configuratie
 date: 2022-02-08 10:15:56 -300
 categories: [Virtualisatie, Server]
 tags: [proxmox, configuratie]     # TAG names should always be lowercase
+image:
+ path: /assets/img/headers/hero-proxconfig.webp
 ---
 
 # Aan de slag
@@ -64,7 +66,7 @@ Na een nieuwe installatie van Proxmox VE, volg de onderstaande stappen om je vir
 
 ### IOMMU Inschakelen:
 
-> Opmerking: Alleen mogelijk als je een processor en moederbord hebt die IOMMU ondersteunt en als deze is ingeschakeld in de BIOS van de moderbord. **Manufacturers geven deze technologie vaak andere namen. Check welke naam jouw moederbord manufacturer gebruikt.**
+> Opmerking: Alleen mogelijk als de processor en moederbord de IOMMU ondersteunen en als deze is ingeschakeld in de BIOS van het moederbord. **Manufacturers geven de PCI Pass Through (IOMMU) technologie vaak andere namen. Check welke naam jouw moederbord manufacturer gebruikt.**
 {: .prompt-tip }
 
 1. SSH naar de Proxmox-server.
@@ -102,7 +104,7 @@ Na een nieuwe installatie van Proxmox VE, volg de onderstaande stappen om je vir
 
 ### Backups Plannen:
 
-1. klik op datacenter
+1. Klik op datacenter
     1. Navigeer naar 'Backup'
     2. klik 'Add' om een backup job toe te voegen
         - selecteer de node
@@ -129,11 +131,11 @@ Na een nieuwe installatie van Proxmox VE, volg de onderstaande stappen om je vir
 
 ### NIC Team voor Failover Maken:
 
-> Dit is alleen mogelijk wanneer er 2 of meer netwerk interface kaarten zijn geinstaleerd in de Proxmox server.
+> Dit is alleen mogelijk wanneer er 2 of meer netwerk interface kaarten zijn geinstalleerd in de Proxmox server.
 {: .prompt-warning }
 
 1. SSH naar de Proxmox-server.
-    1. navigeer naar de network interfaces met de commando `nano /ect/network/interfaces`
+    1. Navigeer naar de network interfaces met de commando `nano /ect/network/interfaces`
         -  ga na als je de netwerk interfaces ziet. Bijv. `iface eno1 inet manual` en `iface eno2 inet manual`
         -  ga na als je de bridge ziet met een static IP bijv. ..
             ```
@@ -179,7 +181,7 @@ Na een nieuwe installatie van Proxmox VE, volg de onderstaande stappen om je vir
             > Opmerking: alleen de waarde van `bridge-ports` is aangepast van `eno1` naar `bond0`.
             {: .prompt-tip }
         -  sla de aangebrachte aanpassingen op in de netwerk interfaces
-    2.  reboot de Proxmox server
+    2.  Reboot de Proxmox server
 
 
 ### Virtuele Machine Template Maken:

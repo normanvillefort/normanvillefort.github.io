@@ -3,6 +3,8 @@ title: Proxmox Virtual Environment &#58 Installatie
 date: 2022-02-07 14:33:56 -300
 categories: [Virtualisatie, Server]
 tags: [proxmox, installatie]     # TAG names should always be lowercase
+image:
+ path: /assets/img/headers/hero-proxinstall.webp
 ---
 
 # Aan de slag
