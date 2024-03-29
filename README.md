@@ -4,6 +4,6 @@ Godfather's Tech Hub, een plek waar ik mijn passie voor technologie deel en waar
 
 ## Wie? Wat? Waarom?
 
-Hey, ik ben Norman V., ook wel bekend als Godfather. De intensie en het doel is om mijn kennis te delen en anderen te helpen groeien in hun technische vaardigheden.
+Hey, ik ben Norman V., wordt ookwel Godfather genoemd. De intensie en het doel is om mijn kennis te delen en anderen te helpen groeien in hun technische skills.
 
 - [Godfather](http://normanvillefort.github.io/)
