@@ -1,9 +1,7 @@
 # Godfather's Tech Hub!
 
-Godfather's Tech Hub, een plek waar ik mijn passie voor technologie deel en waardevolle bronnen verzamel voor alles wat met netwerkengineering en meer te maken heeft. Hier vind je handige handleidingen, tips, trucs en nog veel meer om je te helpen bij het beheren en verbeteren van je technische vaardigheden.
+Een plek waar ik mijn passie voor technologie deel met waardevolle bronnen verzamel voor alles wat met netwerkengineering en meer te maken heeft. Hier drop ik mijn handige handleidingen, om te helpen in toekomstige endeavors.
 
-## Wie? Wat? Waarom?
+Het is gewoon maar een centrale plek voor al mijn notities die ik overal en nergens had liggen. Natuurlijk schoon ik ze een beetje op en haal ik er van de gevoelige informatie uit.
 
-Hey, ik ben Norman V., wordt ookwel Godfather genoemd. De intensie en het doel is om mijn kennis te delen en anderen te helpen groeien in hun technische skills.
-
-- [Godfather](http://normanvillefort.github.io/)
+Hopelijk, is het ook van waarde voor jou als het blijft voor mij!

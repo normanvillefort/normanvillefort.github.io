@@ -97,4 +97,3 @@ Het creëren van een virtuele machine (VM) voor een Windows Server op Proxmox ve
 
 
 8. Wacht tot de VM is opgestart en voltooi de Windows Server-installatie door de instructies op het scherm te volgen. Je kunt de ISO van Windows Server uploaden naar de Proxmox-server en deze toewijzen aan de VM als installatiemedia.
-
