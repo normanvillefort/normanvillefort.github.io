@@ -10,7 +10,7 @@ Ik ben Norman, geboren en opgegroeid in het prachtige Paramaribo, Suriname.
 
 Ik ben begonnen met mijn educatie op de Sint Elizabethschool en heb mijn weg vervolgd via de Sint Petrusschool en de Sint Paulusschool. Daarna heb ik een tijdje rondgehangen op de Algemene middelbare school (A.M.S.), waarna ik mijn H.A.V.O. 2 diploma haalde voordat ik belandde op het Instituut voor de Opleiding van Leraren (I.O.L.) voor wiskunde en natuurkunde.
 
-Maar genoeg over school! Laten we het hebben over mijn avonturen op de werkvloer. Van het jongleren met glazen en borden in de horeca tot het ploegen door de agrarische sector, ik heb heel wat meegemaakt. Oh, en laten we de tijd niet vergeten dat ik als Research Executive werkte aan een cool project over de jeugd van Suriname.
+Maar genoeg over school! Laten we het hebben over mijn avonturen op de werkvloer. Van het jongleren met glazen en borden in de horeca tot het ploegen door de agrarische sector, ik heb heel wat meegemaakt. Oh, en laten we de tijd niet vergeten dat ik als Research Executive werkte aan een cool landelijk project over de jeugd van Suriname.
 
 Maar het meest opwindende deel van mijn verhaal? Dat is waar ik nu ben. Als eigenaar van OMADUDU N.V. en Quarkpulse, richt ik me op informatie- en technologiediensten. Het is een hele rit geweest, maar ik geniet echt van elke minuut.
 
