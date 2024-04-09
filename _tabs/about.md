@@ -14,7 +14,7 @@ Maar genoeg over school! Laten we het hebben over mijn avonturen op de werkvloer
 
 Maar het meest opwindende deel van mijn verhaal? Dat is waar ik nu ben. Als eigenaar van OMADUDU N.V. en Quarkpulse, richt ik me op informatie- en technologiediensten. Het is een hele rit geweest, maar ik geniet echt van elke minuut.
 
-Dat is een beetje over mij. Ik hoop dat het inspirerend is voor anderen!
+Dat is een beetje over mij en ik hoop dat het inspirerend is voor anderen!
 
 ### Persoonlijke Gegevens
 - **Naam:** Norman Villefort
