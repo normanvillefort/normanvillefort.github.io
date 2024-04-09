@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 3
 ---
 
-# Norman V.
+## Norman V.
 
 Ik ben Norman, geboren en opgegroeid in het prachtige Paramaribo, Suriname.
 
@@ -16,20 +16,20 @@ Maar het meest opwindende deel van mijn verhaal? Dat is waar ik nu ben. Als eige
 
 Dat is een beetje over mij. Ik hoop dat het inspirerend is voor anderen!
 
-## Persoonlijke Gegevens
+### Persoonlijke Gegevens
 - **Naam:** Norman Villefort
 - **Geslacht:** Man
 - **Geboren:** 24 december
 - **Geboorteplaats:** Paramaribo, Suriname
 
-## Educatie
+### Educatie
 - Peuter- en Kleuterschool: Sint Elizabethschool
 - Lagere school: Sint Petrusschool
 - Muloschool: Sint Paulusschool
-- Middelbare school (Q-pakket): Algemene middelbare school (A.M.S.), Hoger Algemeen Voorgezet Onderwijs (H.A.V.O. 2)
-- Hoger onderwijs (Wiskunde en Natuurkunde): Instituut voor de Opleiding van Leraren (I.O.L.)
+- Middelbare school (S-pakket): Algemene middelbare school (A.M.S.), Hoger Algemeen Voorgezet Onderwijs (H.A.V.O. 2)
+- Hoger beroepsonderwijs (Wiskunde en Natuurkunde): Instituut voor de Opleiding van Leraren (I.O.L.)
 
-## Certificaten
+### Certificaten
 - IHTC Hospitality & Bartending
 - Comptia A+
 - Comptia N+
@@ -37,7 +37,7 @@ Dat is een beetje over mij. Ik hoop dat het inspirerend is voor anderen!
 - Comptia Cloud+
 - Comptia Security+
 
-## Werkervaring
+### Werkervaring
 - **2003 - 2005**: Mambo grill (Cirkelgroup of Companies) - Functie: Waiter (Gepromoveerd naar Frontfloor manager) - Horeca
 - **2005 - 2010**: Cafe d'Optimist - Functie: Waiter/ Bartender (Gepromoveerd naar Restaurant manager) - Horeca
 - **2010 - heden**: Boxel garden - Functie: Bedrijfseigenaar - Agrarisch
