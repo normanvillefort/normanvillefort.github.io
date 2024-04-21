@@ -13,7 +13,7 @@ image:
 1. **Kloon de Zabbix Docker repository**:
    Om te beginnen, kloon de Zabbix Docker repository naar jouw `/path/to-your/projects_volume/zabbix` directory. Voer hiervoor het volgende commando uit in je terminal:
    ```
-   git clone -b 6.4 https://github.com/zabbix/zabbix-docker.git /home/quarkpulse/docker_volumes/zabbix
+   git clone -b 6.4 https://github.com/zabbix/zabbix-docker.git /path/to-your/projects_volume/zabbix
    ```
    Met dit commando kloon je de Zabbix Docker repository naar de opgegeven directory.
 
