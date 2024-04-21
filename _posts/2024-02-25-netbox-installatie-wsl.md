@@ -8,7 +8,7 @@ image:
 ---
 # Aan de slag.
 
-## Instrcuties.
+## Instructies.
 
 ### 1. **Kloon de NetBox Docker-repository**:
    Ga naar je `/path/to-your/projects_volume/netbox` directory in de terminal en voer het volgende commando uit:

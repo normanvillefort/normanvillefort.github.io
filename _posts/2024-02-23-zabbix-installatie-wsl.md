@@ -8,7 +8,7 @@ image:
 ---
 # Aan de slag.
 
-## Instrcuties.
+## Instructies.
 
 ### 1. **Kloon de Zabbix Docker repository**:
    Om te beginnen, kloon de Zabbix Docker repository naar jouw `/path/to-your/projects_volume/zabbix` directory. Voer hiervoor het volgende commando uit in je terminal:
